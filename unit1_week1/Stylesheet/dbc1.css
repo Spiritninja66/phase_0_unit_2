@@ -1,0 +1,16 @@
+body{
+	Background-color: Grey;
+}
+p{
+	color:white;
+	font-family:Arial;
+}
+ol{
+	color:teal;
+}
+ul{
+	color:purple;
+}
+div{
+	color:maroon;
+}
