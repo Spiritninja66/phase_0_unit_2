@@ -1,3 +1,39 @@
 body{
-	text alight:center;
+	text-align:center;
 }
+#header {
+	background-color: #FF0000;
+}
+body{
+	background-color:gray;
+padding: 12px 3px 1px 3px;
+}
+#random{
+color:maroon;
+font-family: cursive;
+}
+img{
+	position:relative;
+	border: 2px solid red;
+	height: 270px;
+	width: 270px;
+	margin: auto;
+	text-align: center;
+	padding: 10px 10px 10px 10px ;
+	
+}
+
+	span {
+	font-weight: bold;
+	font-size: 20px;
+	color: blue;
+}
+a{
+   font-size:22; 
+    position: absolute; 
+   top: 410px; 
+   left: 0; 
+   width: 100%;
+   color:black;
+
+   }
