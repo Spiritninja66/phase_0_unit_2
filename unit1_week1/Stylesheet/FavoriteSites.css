@@ -1,11 +1,26 @@
 Header{
 	color:Orange;
 	text-align:center;
+	font-family:Arial; 
+	font-size:48px;
+	background-color:#FF0000;
 }
 body{
 	background-color: #FF6600
 }
 p1{
 	text-align:left;
-	text-color:red;
+	color:red;
+
 }
+a:hover{ 
+background-color:yellow;
+}
+p2{
+  
+    text-align:center;
+}
+#list {
+		float:left;
+		width: 200px;
+	}
