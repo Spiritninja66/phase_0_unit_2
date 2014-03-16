@@ -7,5 +7,5 @@ body{
 }
 p1{
 	text-align:left;
-	hover:red;
+	text-color:red;
 }
