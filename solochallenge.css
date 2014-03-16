@@ -1,0 +1,22 @@
+header{
+	background-color:#00CC99;
+	font-size:120px;
+	font-family: times;
+	text-align: center;
+}
+body{
+	background-color: #009999;
+}
+class{
+    text-align: left;
+	padding: 10px 10px 10px 10px;
+	color:#003366;
+	border:2px blue
+}
+div{
+    position:fixed;
+}
+p{
+    text-align:center;
+}
+    
