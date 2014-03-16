@@ -8,13 +8,13 @@ body{
 	background-color: #009999;
 }
 class{
-    text-align: left;
+    text-align: center;
 	padding: 10px 10px 10px 10px;
 	color:#003366;
 	border:2px blue
 }
 div{
-    position:fixed;
+    position:absolute;
 }
 p{
     text-align:center;
