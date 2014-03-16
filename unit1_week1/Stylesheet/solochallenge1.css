@@ -15,8 +15,12 @@ class{
 }
 div{
     position:absolute;
+
 }
 p{
     text-align:center;
+}
+nav{
+	vertical-align: center
 }
     
