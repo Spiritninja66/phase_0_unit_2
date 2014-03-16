@@ -14,7 +14,7 @@ class{
 	border:2px blue
 }
 div{
-    position:absolute;
+    position:relative;
 }
 p{
     text-align:center;
