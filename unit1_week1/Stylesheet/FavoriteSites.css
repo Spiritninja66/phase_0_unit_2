@@ -1,0 +1,11 @@
+Header{
+	color:Orange;
+	text-align:center;
+}
+body{
+	background-color: #FF6600
+}
+p1{
+	text-align:left;
+	hover:red;
+}
