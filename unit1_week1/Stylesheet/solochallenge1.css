@@ -13,7 +13,10 @@ class{
 	color:#003366;
 	border:2px blue
 }
+div{
+    position:absolute;
 
+}
 p{
     text-align:center;
 }
