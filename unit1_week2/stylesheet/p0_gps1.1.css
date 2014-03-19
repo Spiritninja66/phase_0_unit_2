@@ -1,0 +1,32 @@
+<!--p0_gps1.1.css-->
+<style>
+    
+  header {
+    text-align: center;
+    font-family: impact;
+    color: blue;
+    font-size: 48px;
+  }
+    
+  p {
+    text-align: center;
+    font-family: courier;
+  }
+  
+  body {
+    background-color: green;
+  }
+ table {
+    text-align: left;
+    color: red;
+    border: 3px solid black;
+    width: 300px;
+    height: 250px;
+  }
+ footer{
+    font-size: 12px;
+    border: 1px solid black;
+    text-align: center;
+    font-style: bold;
+  }
+</style>
