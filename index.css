@@ -33,7 +33,7 @@ span{
 	background: #FA8072;
 }
 #right_column{
-	position: relative;
+	float:right;
 	background: #FF8000;
 	
 
