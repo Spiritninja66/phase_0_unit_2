@@ -11,7 +11,7 @@
 
 body{
 	height:100%;
-	background:#FFECC8;
+	background:#FEF0DB;
 	font-size: 15 px; 
 	font-family:"century gothic"; 
 	font-color:#6E6256;
@@ -27,12 +27,19 @@ span{
 	width: 160px;
 	position: relative;
 	float: left;
-	z-index:100;
+	z-index: 100;
 	padding: 12px 14px 12px 12px;
-	background:#FFCC99;
+	background: #FA8072;
 }
+#right_column{
+	position: relative;
+	background: #FF8000;
+	height: 300 px;
+	width: 300px;
+	
 
+}
 #header{
-	background-color:
-	font-size:48; 
+	background: #99CC32;
+	font-size: 48; 
 }
