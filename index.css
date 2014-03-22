@@ -14,7 +14,7 @@ body{
 	background:#FFECC8;
 	font-size: 15 px; 
 	font-family:"century gothic"; 
-	font-color:#5E5043;
+	font-color:#6E6256;
 }
 
 div{
@@ -22,4 +22,10 @@ div{
 }
 span{
 	font-size:18px;
+}
+#right_column{
+	position: right;
+}
+#header{
+	background-color: 
 }
