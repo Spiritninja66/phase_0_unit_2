@@ -24,7 +24,7 @@ span{
 	font-size:18px;
 }
 #right_column{
-	position: right;
+	align:right;
 }
 #header{
 	background-color: 
