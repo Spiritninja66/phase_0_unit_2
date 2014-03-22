@@ -29,7 +29,7 @@ span{
 	position: relative;
 	float: left;
 	padding: 12px 14px 12px 12px;
-	background: #FA8072;
+	background: #7B3F00;
 }
 #right_column{
 	float:right;
@@ -39,7 +39,7 @@ span{
 
 }
 header{
-	background: #99CC32;
-	font-size: 48px; 
-	align: center;
+	background: ##7B3F00;
+	font: #EE7600 48px; 
+	text-align: center;
 }
