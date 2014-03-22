@@ -19,7 +19,6 @@ body{
 
 div{
 	display:block;
-	font-size: 48 px
 }
 span{
 	font-size:18px;
@@ -34,7 +33,7 @@ span{
 }
 #right_column{
 	float:right;
-	background: #FF8000;
+	
 	
 
 
