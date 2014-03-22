@@ -23,9 +23,16 @@ div{
 span{
 	font-size:18px;
 }
-#right_column{
-	align:right;
+#left_column{
+	width: 160px;
+	position: relative;
+	float: left;
+	z-index:100;
+	padding: 12px 14px 12px 12px;
+	background:#FFCC99;
 }
+
 #header{
-	background-color: 
+	background-color:
+	font-size:48; 
 }
