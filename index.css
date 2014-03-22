@@ -40,5 +40,6 @@ span{
 }
 header{
 	background: #99CC32;
-	font-size: 48; 
+	font-size: 48px; 
+	align: center;
 }
