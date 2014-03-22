@@ -1,0 +1,22 @@
+#container{
+	width: 900px;
+	margin:auto;
+	padding:0 30px;
+	/* padding-top:0px;
+	   padding-right: 30px;
+	   padding-bottom: 0px;
+       padding-left: 30px
+	*/
+}
+
+body{
+	height:100%;
+	background:#FFECC8;
+	font-size: 15 px; 
+	font-family:"century gothic"; 
+	font-color:#5E5043;
+}
+
+div{
+	display:block;
+}

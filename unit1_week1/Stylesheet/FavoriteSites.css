@@ -8,7 +8,7 @@ Header{
 body{
 	background-color: #FF6600
 }
-p1{
+ul{
 	text-align:left;
 	color:red;
 
@@ -16,7 +16,8 @@ p1{
 a:hover{ 
 background-color:yellow;
 }
-p2{
+p{
+	font-family:times #330000;
   
     text-align:center;
 }
@@ -24,6 +25,6 @@ p2{
 		float:left;
 		width: 200px;
 	}
-p2{
-	font-family:times #330000;
-}
+	table{
+		align:center;
+	}
