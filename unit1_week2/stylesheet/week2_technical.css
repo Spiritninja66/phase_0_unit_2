@@ -30,30 +30,30 @@ body{
 div{
 	display: block;
 }
-}
-p{
-	text-align: center;
-	font: 15px "century gothic" #5300A6;
-} 
 
 #left_column{
-	width: 160px;
+	height: 100px;
+	width: 110px;
 	position: relative;
 	float: left;
-	z-index:100;
-	padding: 12px 14px 12px 12px;
-	background:#FFCC99;
+	padding: 10px 10px 10px 10px;
+	
 }
 #right_column{
 	padding: 10px 16px;
 	border:#66FFFF;
+	position: center;
 }
   table {
-        text-align: left;
+        
         color: black;
-        border: 3px solid black;
-        width: 300px;
-        height: 250px;
-        align:center;
+        border: 3px center;
+        width: 700px;
+        height: 650px;
+        text-align:center;
+        padding:15px;
+        background:#EAF4FF;
+        text-align: center;
+		font: 15px "century gothic" #000099;
        
       }
