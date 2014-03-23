@@ -12,9 +12,8 @@
 body{
 	height:100%;
 	background:#FEF0DB;
-	font-size: 15 px; 
-	font-family:"century gothic"; 
-	font-color:#6E6256;
+	
+	font: 15px "century gothic" #6E6256;
 }
 
 div{
