@@ -50,10 +50,11 @@ div{
         border: 3px center;
         width: 700px;
         height: 650px;
-        text-align:center;
         padding:15px;
         background:#EAF4FF;
         text-align: center;
 		font: 15px "century gothic" #000099;
+		margin-left:auto; 
+    	margin-right:auto;
        
       }
