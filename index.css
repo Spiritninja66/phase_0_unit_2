@@ -1,13 +1,4 @@
-#container{
-	width: 800px;
-	margin:auto;
-	padding:0px 30px;
-	/* padding-top:0px;
-	   padding-right: 30px;
-	   padding-bottom: 0px;
-       padding-left: 30px
-	*/
-}
+
 
 body{
 	height:100%;
@@ -25,9 +16,8 @@ span{
 #left_column{
 	height: 300px;
 	width: 150px;
-	position: relative;
+	position: absolute;
 	float: left;
-	padding: 10px 10px 10px 10px;
 	background: #FA8072;
 }
 #right_column{

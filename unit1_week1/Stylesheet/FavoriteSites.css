@@ -23,8 +23,11 @@ p{
 }
 #list {
 		float:left;
-		width: 200px;
+		width: 100px;
+		background-color:yellow;
 	}
 	table{
-		align:center;
+		margin-right: auto;
+		margin-left: :auto;
+		text-align:center;
 	}
