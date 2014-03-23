@@ -1,0 +1,50 @@
+header{
+	background: #2EB8E6;
+	font-size: 48px; 
+	text-align: center;
+}
+#container{
+	width: 900px;
+	margin:auto;
+	padding:0 30px;
+	/* padding-top:0px;
+	   padding-right: 30px;
+	   padding-bottom: 0px;
+       padding-left: 30px
+	*/
+}
+#content{
+	background-color: #99CCFF;
+	min-height: 425px; 
+	padding: 20px;
+}
+
+body{
+	height: 100%;
+	background: #99CCFF;
+	font-size: 15 px; 
+	font-family: "century gothic"; 
+	font-color: #5E5043;
+}
+
+div{
+	display: block;
+}
+}
+p{
+	text-align: center;
+	font: 15px "century gothic" #5300A6;
+} 
+
+#left_column{
+	width: 160px;
+	position: relative;
+	float: left;
+	z-index:100;
+	padding: 12px 14px 12px 12px;
+	background:#FFCC99;
+}
+#right_column{
+	padding: 10px 16px;
+	border:#66FFFF;
+}
