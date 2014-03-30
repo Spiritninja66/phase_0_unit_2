@@ -1,5 +1,5 @@
 header{
-	background: #CCCCFF;
+	background: #9966FF;
 	font-size: 48px; 
 	text-align: left;
 }
@@ -8,7 +8,7 @@ header{
 
 body{
 	height: 100%;
-	background: #CC0000;
+	background: #8F00B2;
 	font-size: 15 px; 
 	font-family: "century gothic"; 
 	font-color: #5E5043;
@@ -25,12 +25,13 @@ ul{
 	float: left;
 	z-index:100;
 	padding: 12px 14px 12px 12px;
-	background:#CCCCFF;
+	background:#CCFFCC;
 }
 table{
 	margin-right: auto;
 	margin-left:auto;
-	
-	font: 15px "century gothic";
-	background-color:#FF6262;
+	text-align: center;
+	font: 15px "century gothic" #6E6256;
+	background-color: #E085FF;
+
 }
